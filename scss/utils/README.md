@@ -1,4 +1,4 @@
-# The *utils* folder contains utility SCSS files that provide reusable helper classes, functions, and structural utilities. These files are designed to handle common styling needs, enabling developers to apply consistent styles across the project with minimal effort. The utilities in this folder are typically low-level styles or helper functions that can be applied to multiple components or layouts.
+## The *utils* folder contains utility SCSS files that provide reusable helper classes, functions, and structural utilities. These files are designed to handle common styling needs, enabling developers to apply consistent styles across the project with minimal effort. The utilities in this folder are typically low-level styles or helper functions that can be applied to multiple components or layouts.
 
 ## Files in *utils*:
 ### _color-utils.scss:
