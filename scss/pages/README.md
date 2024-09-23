@@ -1,4 +1,4 @@
-# The *pages* folder contains SCSS files that hold styles specific to individual pages of the website. These styles are applied to content and elements that are unique to each page, ensuring that page-specific layouts and components are styled appropriately without affecting the rest of the site.
+## The *pages* folder contains SCSS files that hold styles specific to individual pages of the website. These styles are applied to content and elements that are unique to each page, ensuring that page-specific layouts and components are styled appropriately without affecting the rest of the site.
 
 ## Files in *pages*:
 ### _home.scss:
