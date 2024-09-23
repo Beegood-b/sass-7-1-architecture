@@ -1,4 +1,4 @@
-# The *abstracts* folder contains foundational SCSS files that define variables, functions, and mixins. These files provide a global framework for styling throughout the project, promoting consistency and reducing code duplication. The contents of this folder are typically not compiled into CSS directly but are imported into other SCSS files as needed.
+## The *abstracts* folder contains foundational SCSS files that define variables, functions, and mixins. These files provide a global framework for styling throughout the project, promoting consistency and reducing code duplication. The contents of this folder are typically not compiled into CSS directly but are imported into other SCSS files as needed.
 
 ## Files in *abstracts*:
 
