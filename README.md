@@ -19,7 +19,7 @@ This project is structured using SCSS (Sass) to organize and manage styles effic
   - [vendors](https://github.com/Beegood-b/sass-7-1-architecture/tree/main/scss/vendors)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](https://github.com/Beegood-b/sass-7-1-architecture/blob/main/LICENSE)
+- [License](#license)
 - [Author](#author)
 
 ## Folder Structure
