@@ -1,4 +1,4 @@
-# The *components* folder contains SCSS files for reusable UI elements that are used throughout the project. These elements are often self-contained and modular, making it easy to manage and update individual pieces of the UI. Each file in this folder typically corresponds to a specific visual or functional component.
+## The *components* folder contains SCSS files for reusable UI elements that are used throughout the project. These elements are often self-contained and modular, making it easy to manage and update individual pieces of the UI. Each file in this folder typically corresponds to a specific visual or functional component.
 
 ## Files in *components*:
 ### _buttons.scss:
