@@ -1,6 +1,8 @@
-<img src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000" alt="" width="150">
+<div align="center"><img src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000" alt="" width="150">
 
 # SASS 7-1 Architecture
+</div>
+<br>
 
 ## Overview
 
