@@ -1,4 +1,4 @@
-# The *base* folder contains essential global styles that lay the foundation for the entire project. These styles are applied universally, ensuring consistency in default styling across all elements. This folder typically includes styles that apply to HTML elements, default browser resets, and base typography settings.
+## The *base* folder contains essential global styles that lay the foundation for the entire project. These styles are applied universally, ensuring consistency in default styling across all elements. This folder typically includes styles that apply to HTML elements, default browser resets, and base typography settings.
 
 ## Files in *base*:
 ### _fonts.scss:
