@@ -1,3 +1,5 @@
+<img src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000" alt="" width="150">
+
 # SASS 7-1 Architecture
 
 ## Overview
@@ -8,16 +10,16 @@ This project is structured using SCSS (Sass) to organize and manage styles effic
 
 - [Overview](#overview)
 - [Folder Structure](#folder-structure)
-  - [abstracts](#abstracts)
-  - [base](#base)
-  - [components](#components)
-  - [layout](#layout)
-  - [pages](#pages)
-  - [utils](#utils)
-  - [vendors](#vendors)
+  - [abstracts](https://github.com/Beegood-b/sass-7-1-architecture/tree/main/scss/abstracts)
+  - [base](https://github.com/Beegood-b/sass-7-1-architecture/tree/main/scss/base)
+  - [components](https://github.com/Beegood-b/sass-7-1-architecture/tree/main/scss/components)
+  - [layout](https://github.com/Beegood-b/sass-7-1-architecture/tree/main/scss/layout)
+  - [pages](https://github.com/Beegood-b/sass-7-1-architecture/tree/main/scss/pages)
+  - [utils](https://github.com/Beegood-b/sass-7-1-architecture/tree/main/scss/utils)
+  - [vendors](https://github.com/Beegood-b/sass-7-1-architecture/tree/main/scss/vendors)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](https://github.com/Beegood-b/sass-7-1-architecture/blob/main/LICENSE)
 - [Author](#author)
 
 ## Folder Structure
@@ -67,7 +69,6 @@ scss/
 │   ├── _index.scss           # Forwarding all vendor styles
 │   ├── _bootstrap.scss       # Bootstrap framework styles
 │   └── _normalize.scss       # Normalize.css styles
-├
 └── styles.scss                  # Main SCSS file
 ```
 
@@ -131,7 +132,7 @@ This modular structure allows for easy customization and scalability as your pro
 
 ## Contributing
 
-Feel free to open issues or submit pull requests if you find any bugs or have suggestions for improvements.
+Feel free to open issues or submit pull requests if you have suggestions for improvements.
 
 1. Fork the repository.
 2. Create a new branch.
@@ -140,9 +141,9 @@ Feel free to open issues or submit pull requests if you find any bugs or have su
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/Beegood-b/sass-7-1-architecture/blob/main/LICENSE).
 
 ## Author
 
-**Beegood-b**  
+**Artjoms Bugajenkovs**  
 You can reach me at [Github](https://github.com/Beegood-b).
