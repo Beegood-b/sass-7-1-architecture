@@ -1,4 +1,4 @@
-# The *vendors* folder contains third-party libraries and styles that are imported into the project. These stylesheets are generally not modified directly, as they come from external sources. Instead, they provide base styling or functionality that complements your custom SCSS code.
+## The *vendors* folder contains third-party libraries and styles that are imported into the project. These stylesheets are generally not modified directly, as they come from external sources. Instead, they provide base styling or functionality that complements your custom SCSS code.
 
 ## Files in *vendors*:
 ### _bootstrap.scss:
