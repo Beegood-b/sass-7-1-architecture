@@ -1,4 +1,4 @@
-# The *layout* folder contains SCSS files responsible for structuring the larger sections of the webpage, including elements that form the overall layout and navigation. These files define the organization of major sections and ensure that these components are consistently styled across the project.
+## The *layout* folder contains SCSS files responsible for structuring the larger sections of the webpage, including elements that form the overall layout and navigation. These files define the organization of major sections and ensure that these components are consistently styled across the project.
 
 ## Files in layout:
 ### _header.scss:
