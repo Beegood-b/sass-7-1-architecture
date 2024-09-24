@@ -35,7 +35,7 @@ scss/
 │   ├── _colors.scss          # Color Palette
 │   ├── _functions.scss       # Sass Functions
 │   ├── _mixins.scss          # Sass Mixins
-│   ├── _type.scss            # Typography rules
+│   ├── _type.scss            # Type scale rules
 │   └── _vars.scss            # General-purpose variables
 ├── base/
 │   ├── _index.scss           # Forwarding all base styles
@@ -78,8 +78,6 @@ scss/
 ### Usage Instructions for `@forward`
 
 The `@forward` directive in SCSS is used to re-export styles from one module to another. This is particularly useful in the `_index.scss` files for organizing and managing styles across your project.
-
-In each `_index.scss` file, you can forward styles from other files in the same folder. Here’s how to manage it:
 
 **In each `_index.scss` file**, use `@forward` to include the styles from the other SCSS files in that folder. For example, in `abstracts/_index.scss`:
 
@@ -129,6 +127,9 @@ This pattern allows you to easily forward and manage your styles while maintaini
 To use this SCSS structure in your project:
 
 1. Clone the repository.
+```
+git clone https://github.com/Beegood-b/sass-7-1-architecture
+```
 2. Compile your SCSS files into a single CSS file using your preferred Sass compiler (e.g., node-sass, Dart Sass).
 
 This modular structure allows for easy customization and scalability as your project grows.
